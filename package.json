@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+     "_comment": "Node => v13",
+     "type": "module" 
+}
